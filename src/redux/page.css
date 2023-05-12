@@ -1,0 +1,10 @@
+#wrapper {
+    border: 2px solid yellowgreen;
+    display: flex;
+    margin: 30px;
+}
+
+ #jobcard-wrapper {
+  border: 1px solid yellowgreen;
+  margin:10px;
+ }
