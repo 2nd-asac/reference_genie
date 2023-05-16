@@ -13,3 +13,9 @@ reducer, action을 파일로 분리 -> 템플릿 참고 https://github.com/2nd-a
 ### redux 사용
 1. useSelector 
 2. useDispatch 
+
+---
+
+package.json styled-components 추가
+
+`npm install sass-loader sass webpack --save-dev`
