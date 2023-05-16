@@ -1,7 +1,7 @@
 import "./page.css"
 import { Provider, useSelector, useDispatch } from "react-redux";
 import { createStore } from "redux";
-
+import "./page.scss"
 
 const initialJobList = [
     {
